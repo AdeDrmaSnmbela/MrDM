@@ -26,7 +26,7 @@ def baner():
 {B}╔═╗{W}┌─┐┌─┐┌─┐┌┐ ┌─┐┌─┐┬┌─   {B}╔╦╗{W}┌┐ ┌─┐
 {B}╠╣ {W}├─┤│  ├┤ ├┴┐│ ││ │├┴┐{R}───{B}║║║{W}├┴┐├┤ 
 {B}╚  {W}┴ ┴└─┘└─┘└─┘└─┘└─┘┴ ┴   {B}╩ ╩{W}└─┘└  ''')
-    print('' + Back.BLUE + Fore.BLACK + '        Creator : FahmiApz         \033[00m')
+    print('' + Back.BLUE + Fore.BLACK + '        Creator : AdeDrmaSnmbela         \033[00m')
     print()
 
 def masuk():
